@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348586138412",
+    "firebase_url": "https://appinventario-tucumeza-default-rtdb.firebaseio.com",
+    "project_id": "appinventario-tucumeza",
+    "storage_bucket": "appinventario-tucumeza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348586138412:android:be32881979eac57774aa89",
+        "android_client_info": {
+          "package_name": "com.xcheko51x.appinventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348586138412-qbf9tthmh7nq04c73e9h2vnm2lldss4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52qeNDCqq0MN5MyLjkpb932TOEhJjSO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348586138412-qbf9tthmh7nq04c73e9h2vnm2lldss4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
